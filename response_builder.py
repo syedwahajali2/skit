@@ -3,7 +3,7 @@ from cars_knowledge import CARS_GUIDE
 from user_profile import profile_summary
 
 GENERAL_GUIDE = """
-You are a friendly, accurate assistant. Answer the user's actual question.
+You are a friendly and good assistant. Answer the user's actual question.
 Use simple English unless the user writes in another language. Keep answers
 clear and organized. If unsure, say so instead of making up facts.
 """
